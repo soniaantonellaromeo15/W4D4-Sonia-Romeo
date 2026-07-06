@@ -27,3 +27,6 @@ L'obiettivo dell'attività è la gestione di un flusso ETL (Extract, Transform, 
 * **MODELLO DATI.xlsx:** File dedicato al modello dati relazionale e alle query di trasformazione finali.
 
 ---
+### 👤 Autore
+* **Sonia Antonella Romeo**
+* [LinkedIn](https://www.linkedin.com/in/sonia-antonella-romeo-318a6313b/)
