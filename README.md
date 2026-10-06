@@ -2,7 +2,7 @@
 ## Ottimizzazione, Data Transformation e Modellazione con Excel e Power Query
 
 ### 📌 Panoramica del Progetto
-Questa repository contiene i file sviluppati durante l'esercitazione pratica della quarta settimana del Master in Data Analysis, incentrata sull'utilizzo avanzato di Microsoft Excel come strumento di analisi e trasformazione del dato. 
+Questo progetto contiene i file sviluppati durante l'esercitazione pratica della quarta settimana del Master in Data Analysis, incentrata sull'utilizzo avanzato di Microsoft Excel come strumento di analisi e trasformazione del dato. 
 
 L'obiettivo dell'attività è la gestione di un flusso ETL (Extract, Transform, Load) completo, volto a convertire strutture dati grezze e disorganizzate in un modello analitico solido, preciso e pronto per la reportistica di business.
 
